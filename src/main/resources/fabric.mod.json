@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "xmib",
+	"version": "${version}",
+	"name": "XMIB",
+	"description": "This is the mod",
+	"authors": [
+		"xirao_930"
+	],
+	"contact": {
+		"sources": "https://github.com/Honglin930/xmib-fabric-1.21.1"
+	},
+	"license": "MIT",
+	"icon": "assets/xmib/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.honglin930.XMIB"
+		],
+		"fabric-datagen": [
+			"com.honglin930.XMIBDataGenerator"
+		]
+	},
+	"mixins": [
+		"xmib.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.3",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
