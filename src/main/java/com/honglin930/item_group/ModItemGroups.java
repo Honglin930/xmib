@@ -16,6 +16,7 @@ public final class ModItemGroups {
             .displayName(Text.translatable("itemGroup.xmib.more_items"))
             .entries((context, entries) -> {
                 //注册块
+                //WOODEN_SWORD
                 entries.add(ModItems.COMPRESSED_WOODEN_SWORD);
                 entries.add(ModItems.DOUBLE_WOODEN_SWORD);
                 entries.add(ModItems.TRIPLE_WOODEN_SWORD);
@@ -26,6 +27,18 @@ public final class ModItemGroups {
                 entries.add(ModItems.OCTUPLE_WOODEN_SWORD);
                 entries.add(ModItems.NONUPLE_WOODEN_SWORD);
                 entries.add(ModItems.TENFOLD_WOODEN_SWORD);
+                //WOODEN_AXE
+                entries.add(ModItems.COMPRESSED_WOODEN_AXE);
+                entries.add(ModItems.DOUBLE_WOODEN_AXE);
+                entries.add(ModItems.TRIPLE_WOODEN_AXE);
+                entries.add(ModItems.QUADRUPLE_WOODEN_AXE);
+                entries.add(ModItems.QUINTUPLE_WOODEN_AXE);
+                entries.add(ModItems.SEXTUPLE_WOODEN_AXE);
+                entries.add(ModItems.SEPTUPLE_WOODEN_AXE);
+                entries.add(ModItems.OCTUPLE_WOODEN_AXE);
+                entries.add(ModItems.NONUPLE_WOODEN_AXE);
+                entries.add(ModItems.TENFOLD_WOODEN_AXE);
+
                 //
             })
             .build());

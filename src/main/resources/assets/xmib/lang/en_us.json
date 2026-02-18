@@ -9,5 +9,15 @@
   "item.xmib.octuple_wooden_sword": "Octuple wooden sword",
   "item.xmib.nonuple_wooden_sword": "Nonuple wooden sword",
   "item.xmib.tenfold_wooden_sword": "Tenfold wooden sword",
+  "item.xmib.compressed_wooden_axe": "Compressed wooden axe",
+  "item.xmib.double_wooden_axe": "Double wooden axe",
+  "item.xmib.triple_wooden_axe": "Triple wooden axe",
+  "item.xmib.quadruple_wooden_axe": "Quadruple wooden axe",
+  "item.xmib.quintuple_wooden_axe": "Quintuple wooden axe",
+  "item.xmib.sextuple_wooden_axe": "Sextuple wooden axe",
+  "item.xmib.septuple_wooden_axe": "Septuple wooden axe",
+  "item.xmib.octuple_wooden_axe": "Octuple wooden axe",
+  "item.xmib.nonuple_wooden_axe": "Nonuple wooden axe",
+  "item.xmib.tenfold_wooden_axe": "Tenfold wooden axe",
   "itemGroup.xmib.more_items": "More Items"
 }

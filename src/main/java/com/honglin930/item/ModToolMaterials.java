@@ -10,7 +10,9 @@ import net.minecraft.registry.tag.TagKey;
 import java.util.Objects;
 import java.util.function.Supplier;
 
-public enum ModToolMaterials implements ToolMaterial {
+public enum
+ModToolMaterials implements ToolMaterial {
+    //wooden
     WOODEN_SWORD_LV1(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 89, 10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_SWORD)),
     WOODEN_SWORD_LV2(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 134,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_SWORD)),
     WOODEN_SWORD_LV3(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 201,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_SWORD)),
@@ -20,7 +22,17 @@ public enum ModToolMaterials implements ToolMaterial {
     WOODEN_SWORD_LV7(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 1020,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_SWORD)),
     WOODEN_SWORD_LV8(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 1530,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_SWORD)),
     WOODEN_SWORD_LV9(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 2295,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_SWORD)),
-    WOODEN_SWORD_LVX(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 3443,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_SWORD));
+    WOODEN_SWORD_LVX(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 3443,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_SWORD)),
+    WOODEN_AXE_LV1(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 89,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_AXE)),
+    WOODEN_AXE_LV2(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 134,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_AXE)),
+    WOODEN_AXE_LV3(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 201,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_AXE)),
+    WOODEN_AXE_LV4(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 302,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_AXE)),
+    WOODEN_AXE_LV5(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 453,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_AXE)),
+    WOODEN_AXE_LV6(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 680,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_AXE)),
+    WOODEN_AXE_LV7(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 1020,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_AXE)),
+    WOODEN_AXE_LV8(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 1530,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_AXE)),
+    WOODEN_AXE_LV9(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 2295,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_AXE)),
+    WOODEN_AXE_LVX(BlockTags.INCORRECT_FOR_WOODEN_TOOL, 3443,10, 2, 2, ()-> Ingredient.ofItems(ModItems.COMPRESSED_WOODEN_AXE));
 
     private final TagKey<Block> inverseTag;
     private final int itemDurability;

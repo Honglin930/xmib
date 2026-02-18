@@ -9,5 +9,15 @@
   "item.xmib.octuple_wooden_sword": "八重木剑",
   "item.xmib.nonuple_wooden_sword": "九重木剑",
   "item.xmib.tenfold_wooden_sword": "十重木剑",
+  "item.xmib.compressed_wooden_axe": "一重木斧",
+  "item.xmib.double_wooden_axe": "二重木斧",
+  "item.xmib.triple_wooden_axe": "三重木斧",
+  "item.xmib.quadruple_wooden_axe": "四重木斧",
+  "item.xmib.quintuple_wooden_axe": "五重木斧",
+  "item.xmib.sextuple_wooden_axe": "六重木斧",
+  "item.xmib.septuple_wooden_axe": "七重木斧",
+  "item.xmib.octuple_wooden_axe": "八重木斧",
+  "item.xmib.nonuple_wooden_axe": "九重木斧",
+  "item.xmib.tenfold_wooden_axe": "十重木斧",
   "itemGroup.xmib.more_items": "更多物品"
 }
