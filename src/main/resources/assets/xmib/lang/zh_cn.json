@@ -9,6 +9,7 @@
   "item.xmib.octuple_wooden_sword": "八重木剑",
   "item.xmib.nonuple_wooden_sword": "九重木剑",
   "item.xmib.tenfold_wooden_sword": "十重木剑",
+
   "item.xmib.compressed_wooden_axe": "一重木斧",
   "item.xmib.double_wooden_axe": "二重木斧",
   "item.xmib.triple_wooden_axe": "三重木斧",
@@ -19,5 +20,39 @@
   "item.xmib.octuple_wooden_axe": "八重木斧",
   "item.xmib.nonuple_wooden_axe": "九重木斧",
   "item.xmib.tenfold_wooden_axe": "十重木斧",
+
+  "item.xmib.compressed_wooden_hoe": "一重木锄",
+  "item.xmib.double_wooden_hoe": "二重木锄",
+  "item.xmib.triple_wooden_hoe": "三重木锄",
+  "item.xmib.quadruple_wooden_hoe": "四重木锄",
+  "item.xmib.quintuple_wooden_hoe": "五重木锄",
+  "item.xmib.sextuple_wooden_hoe": "六重木锄",
+  "item.xmib.septuple_wooden_hoe": "七重木锄",
+  "item.xmib.octuple_wooden_hoe": "八重木锄",
+  "item.xmib.nonuple_wooden_hoe": "九重木锄",
+  "item.xmib.tenfold_wooden_hoe": "十重木锄",
+
+  "item.xmib.compressed_wooden_pickaxe": "一重木镐",
+  "item.xmib.double_wooden_pickaxe": "二重木镐",
+  "item.xmib.triple_wooden_pickaxe": "三重木镐",
+  "item.xmib.quadruple_wooden_pickaxe": "四重木镐",
+  "item.xmib.quintuple_wooden_pickaxe": "五重木镐",
+  "item.xmib.sextuple_wooden_pickaxe": "六重木镐",
+  "item.xmib.septuple_wooden_pickaxe": "七重木镐",
+  "item.xmib.octuple_wooden_pickaxe": "八重木镐",
+  "item.xmib.nonuple_wooden_pickaxe": "九重木镐",
+  "item.xmib.tenfold_wooden_pickaxe": "十重木镐",
+
+  "item.xmib.compressed_wooden_shovel": "一重木锹",
+  "item.xmib.double_wooden_shovel": "二重木锹",
+  "item.xmib.triple_wooden_shovel": "三重木锹",
+  "item.xmib.quadruple_wooden_shovel": "四重木锹",
+  "item.xmib.quintuple_wooden_shovel": "五重木锹",
+  "item.xmib.sextuple_wooden_shovel": "六重木锹",
+  "item.xmib.septuple_wooden_shovel": "七重木锹",
+  "item.xmib.octuple_wooden_shovel": "八重木锹",
+  "item.xmib.nonuple_wooden_shovel": "九重木锹",
+  "item.xmib.tenfold_wooden_shovel": "十重木锹",
+
   "itemGroup.xmib.more_items": "更多物品"
 }

@@ -38,11 +38,45 @@ public final class ModItemGroups {
                 entries.add(ModItems.OCTUPLE_WOODEN_AXE);
                 entries.add(ModItems.NONUPLE_WOODEN_AXE);
                 entries.add(ModItems.TENFOLD_WOODEN_AXE);
+                //WOODEN_HOE
+                entries.add(ModItems.COMPRESSED_WOODEN_HOE);
+                entries.add(ModItems.DOUBLE_WOODEN_HOE);
+                entries.add(ModItems.TRIPLE_WOODEN_HOE);
+                entries.add(ModItems.QUADRUPLE_WOODEN_HOE);
+                entries.add(ModItems.QUINTUPLE_WOODEN_HOE);
+                entries.add(ModItems.SEXTUPLE_WOODEN_HOE);
+                entries.add(ModItems.SEPTUPLE_WOODEN_HOE);
+                entries.add(ModItems.OCTUPLE_WOODEN_HOE);
+                entries.add(ModItems.NONUPLE_WOODEN_HOE);
+                entries.add(ModItems.TENFOLD_WOODEN_HOE);
+                //WOODEN_PICKAXE
+                entries.add(ModItems.COMPRESSED_WOODEN_PICKAXE);
+                entries.add(ModItems.DOUBLE_WOODEN_PICKAXE);
+                entries.add(ModItems.TRIPLE_WOODEN_PICKAXE);
+                entries.add(ModItems.QUADRUPLE_WOODEN_PICKAXE);
+                entries.add(ModItems.QUINTUPLE_WOODEN_PICKAXE);
+                entries.add(ModItems.SEXTUPLE_WOODEN_PICKAXE);
+                entries.add(ModItems.SEPTUPLE_WOODEN_PICKAXE);
+                entries.add(ModItems.OCTUPLE_WOODEN_PICKAXE);
+                entries.add(ModItems.NONUPLE_WOODEN_PICKAXE);
+                entries.add(ModItems.TENFOLD_WOODEN_PICKAXE);
+                //WOODEN_SHOVEL
+                entries.add(ModItems.COMPRESSED_WOODEN_SHOVEL);
+                entries.add(ModItems.DOUBLE_WOODEN_SHOVEL);
+                entries.add(ModItems.TRIPLE_WOODEN_SHOVEL);
+                entries.add(ModItems.QUADRUPLE_WOODEN_SHOVEL);
+                entries.add(ModItems.QUINTUPLE_WOODEN_SHOVEL);
+                entries.add(ModItems.SEXTUPLE_WOODEN_SHOVEL);
+                entries.add(ModItems.SEPTUPLE_WOODEN_SHOVEL);
+                entries.add(ModItems.OCTUPLE_WOODEN_SHOVEL);
+                entries.add(ModItems.NONUPLE_WOODEN_SHOVEL);
+                entries.add(ModItems.TENFOLD_WOODEN_SHOVEL);
 
                 //
             })
             .build());
+
     public static void Initialize(){
-        XMIB.LOGGER.info("Registering XMIB's Item Groups");
+        XMIB.LOGGER.info("Registering XMIB's Item Groups : " + MORE_ITEMS);
     }
 }

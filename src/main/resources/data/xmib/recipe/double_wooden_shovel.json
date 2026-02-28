@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "wooden_shovel",
+  "key": {
+    "#": {
+      "item": "xmib:compressed_wooden_shovel"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xmib:double_wooden_shovel"
+  }
+}
