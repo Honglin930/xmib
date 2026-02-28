@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "wooden_hoe",
+  "key": {
+    "#": {
+      "item": "xmib:nonuple_wooden_hoe"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xmib:tenfold_wooden_hoe"
+  }
+}
