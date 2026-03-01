@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "stone_axe",
+  "key": {
+    "#": {
+      "item": "xmib:nonuple_stone_axe"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xmib:tenfold_stone_axe"
+  }
+}

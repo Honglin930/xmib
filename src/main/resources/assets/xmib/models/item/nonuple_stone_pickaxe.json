@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "xmib:item/nonuple_stone_pickaxe"
+  }
+}

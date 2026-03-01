@@ -1,5 +1,5 @@
 plugins {
-	id 'net.fabricmc.fabric-loom-remap' version "${loom_version}"
+	id 'fabric-loom' version '1.14.10'
 	id 'maven-publish'
 }
 
@@ -11,7 +11,6 @@ base {
 }
 
 repositories {
-	// 国内镜像（放在最前面）
 	maven {
 		name = "Aliyun Maven"
 		url = "https://maven.aliyun.com/repository/public"
@@ -67,6 +66,10 @@ java {
 
 	sourceCompatibility = JavaVersion.VERSION_21
 	targetCompatibility = JavaVersion.VERSION_21
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(21)
+	}
+
 }
 
 jar {

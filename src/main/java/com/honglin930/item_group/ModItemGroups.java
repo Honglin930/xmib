@@ -71,12 +71,65 @@ public final class ModItemGroups {
                 entries.add(ModItems.OCTUPLE_WOODEN_SHOVEL);
                 entries.add(ModItems.NONUPLE_WOODEN_SHOVEL);
                 entries.add(ModItems.TENFOLD_WOODEN_SHOVEL);
-
-                //
+                //STONE_SWORD
+                entries.add(ModItems.COMPRESSED_STONE_SWORD);
+                entries.add(ModItems.DOUBLE_STONE_SWORD);
+                entries.add(ModItems.TRIPLE_STONE_SWORD);
+                entries.add(ModItems.QUADRUPLE_STONE_SWORD);
+                entries.add(ModItems.QUINTUPLE_STONE_SWORD);
+                entries.add(ModItems.SEXTUPLE_STONE_SWORD);
+                entries.add(ModItems.SEPTUPLE_STONE_SWORD);
+                entries.add(ModItems.OCTUPLE_STONE_SWORD);
+                entries.add(ModItems.NONUPLE_STONE_SWORD);
+                entries.add(ModItems.TENFOLD_STONE_SWORD);
+                //STONE_AXE
+                entries.add(ModItems.COMPRESSED_STONE_AXE);
+                entries.add(ModItems.DOUBLE_STONE_AXE);
+                entries.add(ModItems.TRIPLE_STONE_AXE);
+                entries.add(ModItems.QUADRUPLE_STONE_AXE);
+                entries.add(ModItems.QUINTUPLE_STONE_AXE);
+                entries.add(ModItems.SEXTUPLE_STONE_AXE);
+                entries.add(ModItems.SEPTUPLE_STONE_AXE);
+                entries.add(ModItems.OCTUPLE_STONE_AXE);
+                entries.add(ModItems.NONUPLE_STONE_AXE);
+                entries.add(ModItems.TENFOLD_STONE_AXE);
+                //STONE_HOE
+                entries.add(ModItems.COMPRESSED_STONE_HOE);
+                entries.add(ModItems.DOUBLE_STONE_HOE);
+                entries.add(ModItems.TRIPLE_STONE_HOE);
+                entries.add(ModItems.QUADRUPLE_STONE_HOE);
+                entries.add(ModItems.QUINTUPLE_STONE_HOE);
+                entries.add(ModItems.SEXTUPLE_STONE_HOE);
+                entries.add(ModItems.SEPTUPLE_STONE_HOE);
+                entries.add(ModItems.OCTUPLE_STONE_HOE);
+                entries.add(ModItems.NONUPLE_STONE_HOE);
+                entries.add(ModItems.TENFOLD_STONE_HOE);
+                //STONE_PICKAXE
+                entries.add(ModItems.COMPRESSED_STONE_PICKAXE);
+                entries.add(ModItems.DOUBLE_STONE_PICKAXE);
+                entries.add(ModItems.TRIPLE_STONE_PICKAXE);
+                entries.add(ModItems.QUADRUPLE_STONE_PICKAXE);
+                entries.add(ModItems.QUINTUPLE_STONE_PICKAXE);
+                entries.add(ModItems.SEXTUPLE_STONE_PICKAXE);
+                entries.add(ModItems.SEPTUPLE_STONE_PICKAXE);
+                entries.add(ModItems.OCTUPLE_STONE_PICKAXE);
+                entries.add(ModItems.NONUPLE_STONE_PICKAXE);
+                entries.add(ModItems.TENFOLD_STONE_PICKAXE);
+                //STONE_SHOVEL
+                entries.add(ModItems.COMPRESSED_STONE_SHOVEL);
+                entries.add(ModItems.DOUBLE_STONE_SHOVEL);
+                entries.add(ModItems.TRIPLE_STONE_SHOVEL);
+                entries.add(ModItems.QUADRUPLE_STONE_SHOVEL);
+                entries.add(ModItems.QUINTUPLE_STONE_SHOVEL);
+                entries.add(ModItems.SEXTUPLE_STONE_SHOVEL);
+                entries.add(ModItems.SEPTUPLE_STONE_SHOVEL);
+                entries.add(ModItems.OCTUPLE_STONE_SHOVEL);
+                entries.add(ModItems.NONUPLE_STONE_SHOVEL);
+                entries.add(ModItems.TENFOLD_STONE_SHOVEL);
             })
             .build());
 
     public static void Initialize(){
-        XMIB.LOGGER.info("Registering XMIB's Item Groups : " + MORE_ITEMS);
+        XMIB.LOGGER.info("Registering XMIB's Item Groups : {}", MORE_ITEMS);
     }
 }

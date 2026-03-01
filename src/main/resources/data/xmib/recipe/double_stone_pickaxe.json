@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "stone_pickaxe",
+  "key": {
+    "#": {
+      "item": "xmib:compressed_stone_pickaxe"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xmib:double_stone_pickaxe"
+  }
+}

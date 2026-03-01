@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "stone_shovel",
+  "key": {
+    "#": {
+      "item": "xmib:quintuple_stone_shovel"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xmib:sextuple_stone_shovel"
+  }
+}

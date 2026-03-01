@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "stone_sword",
+  "key": {
+    "#": {
+      "item": "xmib:septuple_stone_sword"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xmib:octuple_stone_sword"
+  }
+}

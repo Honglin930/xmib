@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "xmib:item/sextuple_stone_axe"
+  }
+}
