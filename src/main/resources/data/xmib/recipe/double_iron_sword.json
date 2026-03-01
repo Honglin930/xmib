@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "iron_sword",
+  "key": {
+    "#": {
+      "item": "xmib:compressed_iron_sword"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xmib:double_iron_sword"
+  }
+}

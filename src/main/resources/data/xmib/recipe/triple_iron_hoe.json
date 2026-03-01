@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "iron_hoe",
+  "key": {
+    "#": {
+      "item": "xmib:double_iron_hoe"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xmib:triple_iron_hoe"
+  }
+}

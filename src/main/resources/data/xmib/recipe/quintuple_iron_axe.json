@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "iron_axe",
+  "key": {
+    "#": {
+      "item": "xmib:quadruple_iron_axe"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xmib:quintuple_iron_axe"
+  }
+}

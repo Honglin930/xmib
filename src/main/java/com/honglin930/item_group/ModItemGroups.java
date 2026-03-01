@@ -126,6 +126,61 @@ public final class ModItemGroups {
                 entries.add(ModItems.OCTUPLE_STONE_SHOVEL);
                 entries.add(ModItems.NONUPLE_STONE_SHOVEL);
                 entries.add(ModItems.TENFOLD_STONE_SHOVEL);
+                //IRON_SWORD
+                entries.add(ModItems.COMPRESSED_IRON_SWORD);
+                entries.add(ModItems.DOUBLE_IRON_SWORD);
+                entries.add(ModItems.TRIPLE_IRON_SWORD);
+                entries.add(ModItems.QUADRUPLE_IRON_SWORD);
+                entries.add(ModItems.QUINTUPLE_IRON_SWORD);
+                entries.add(ModItems.SEXTUPLE_IRON_SWORD);
+                entries.add(ModItems.SEPTUPLE_IRON_SWORD);
+                entries.add(ModItems.OCTUPLE_IRON_SWORD);
+                entries.add(ModItems.NONUPLE_IRON_SWORD);
+                entries.add(ModItems.TENFOLD_IRON_SWORD);
+                //IRON_AXE
+                entries.add(ModItems.COMPRESSED_IRON_AXE);
+                entries.add(ModItems.DOUBLE_IRON_AXE);
+                entries.add(ModItems.TRIPLE_IRON_AXE);
+                entries.add(ModItems.QUADRUPLE_IRON_AXE);
+                entries.add(ModItems.QUINTUPLE_IRON_AXE);
+                entries.add(ModItems.SEXTUPLE_IRON_AXE);
+                entries.add(ModItems.SEPTUPLE_IRON_AXE);
+                entries.add(ModItems.OCTUPLE_IRON_AXE);
+                entries.add(ModItems.NONUPLE_IRON_AXE);
+                entries.add(ModItems.TENFOLD_IRON_AXE);
+                //IRON_HOE
+                entries.add(ModItems.COMPRESSED_IRON_HOE);
+                entries.add(ModItems.DOUBLE_IRON_HOE);
+                entries.add(ModItems.TRIPLE_IRON_HOE);
+                entries.add(ModItems.QUADRUPLE_IRON_HOE);
+                entries.add(ModItems.QUINTUPLE_IRON_HOE);
+                entries.add(ModItems.SEXTUPLE_IRON_HOE);
+                entries.add(ModItems.SEPTUPLE_IRON_HOE);
+                entries.add(ModItems.OCTUPLE_IRON_HOE);
+                entries.add(ModItems.NONUPLE_IRON_HOE);
+                entries.add(ModItems.TENFOLD_IRON_HOE);
+                //IRON_PICKAXE
+                entries.add(ModItems.COMPRESSED_IRON_PICKAXE);
+                entries.add(ModItems.DOUBLE_IRON_PICKAXE);
+                entries.add(ModItems.TRIPLE_IRON_PICKAXE);
+                entries.add(ModItems.QUADRUPLE_IRON_PICKAXE);
+                entries.add(ModItems.QUINTUPLE_IRON_PICKAXE);
+                entries.add(ModItems.SEXTUPLE_IRON_PICKAXE);
+                entries.add(ModItems.SEPTUPLE_IRON_PICKAXE);
+                entries.add(ModItems.OCTUPLE_IRON_PICKAXE);
+                entries.add(ModItems.NONUPLE_IRON_PICKAXE);
+                entries.add(ModItems.TENFOLD_IRON_PICKAXE);
+                //IRON_SHOVEL
+                entries.add(ModItems.COMPRESSED_IRON_SHOVEL);
+                entries.add(ModItems.DOUBLE_IRON_SHOVEL);
+                entries.add(ModItems.TRIPLE_IRON_SHOVEL);
+                entries.add(ModItems.QUADRUPLE_IRON_SHOVEL);
+                entries.add(ModItems.QUINTUPLE_IRON_SHOVEL);
+                entries.add(ModItems.SEXTUPLE_IRON_SHOVEL);
+                entries.add(ModItems.SEPTUPLE_IRON_SHOVEL);
+                entries.add(ModItems.OCTUPLE_IRON_SHOVEL);
+                entries.add(ModItems.NONUPLE_IRON_SHOVEL);
+                entries.add(ModItems.TENFOLD_IRON_SHOVEL);
             })
             .build());
 

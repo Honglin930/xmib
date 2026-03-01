@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "iron_sword",
+  "key": {
+    "#": {
+      "item": "xmib:quintuple_iron_sword"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xmib:sextuple_iron_sword"
+  }
+}

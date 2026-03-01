@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "xmib:item/triple_iron_axe"
+  }
+}

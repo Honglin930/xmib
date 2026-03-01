@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "iron_shovel",
+  "key": {
+    "#": {
+      "item": "xmib:octuple_iron_shovel"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "xmib:nonuple_iron_shovel"
+  }
+}

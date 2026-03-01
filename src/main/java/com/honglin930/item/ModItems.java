@@ -218,6 +218,112 @@ public class ModItems {
             new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.STONE_SHOVEL_LV9, 90, -1.2F))));
     public static final Item TENFOLD_STONE_SHOVEL = ItemRegister("tenfold_stone_shovel", new ShovelItem(ModToolMaterials.STONE_SHOVEL_LVX,
             new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.STONE_SHOVEL_LVX, 137, -1.0F))));
+    //IRON_SWORD
+    public static final Item COMPRESSED_IRON_SWORD = ItemRegister("compressed_iron_sword", new SwordItem(ModToolMaterials.IRON_SWORD_LV1,
+            new Item.Settings().fireproof().attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.IRON_SWORD_LV1, 2, -2.2F))));
+    public static final Item DOUBLE_IRON_SWORD = ItemRegister("double_iron_sword", new SwordItem(ModToolMaterials.IRON_SWORD_LV2,
+            new Item.Settings().fireproof().attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.IRON_SWORD_LV2, 5, -2.0F))));
+    public static final Item TRIPLE_IRON_SWORD = ItemRegister("triple_iron_sword", new SwordItem(ModToolMaterials.IRON_SWORD_LV3,
+            new Item.Settings().fireproof().attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.IRON_SWORD_LV3, 9, -1.8F))));
+    public static final Item QUADRUPLE_IRON_SWORD = ItemRegister("quadruple_iron_sword", new SwordItem(ModToolMaterials.IRON_SWORD_LV4,
+            new Item.Settings().fireproof().attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.IRON_SWORD_LV4, 15, -1.6F))));
+    public static final Item QUINTUPLE_IRON_SWORD = ItemRegister("quintuple_iron_sword", new SwordItem(ModToolMaterials.IRON_SWORD_LV5,
+            new Item.Settings().fireproof().attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.IRON_SWORD_LV5, 24, -1.4F))));
+    public static final Item SEXTUPLE_IRON_SWORD = ItemRegister("sextuple_iron_sword", new SwordItem(ModToolMaterials.IRON_SWORD_LV6,
+            new Item.Settings().fireproof().attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.IRON_SWORD_LV6, 38, -1.2F))));
+    public static final Item SEPTUPLE_IRON_SWORD = ItemRegister("septuple_iron_sword", new SwordItem(ModToolMaterials.IRON_SWORD_LV7,
+            new Item.Settings().fireproof().attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.IRON_SWORD_LV7, 59, -1.0F))));
+    public static final Item OCTUPLE_IRON_SWORD = ItemRegister("octuple_iron_sword", new SwordItem(ModToolMaterials.IRON_SWORD_LV8,
+            new Item.Settings().fireproof().attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.IRON_SWORD_LV8, 90, -0.8F))));
+    public static final Item NONUPLE_IRON_SWORD = ItemRegister("nonuple_iron_sword", new SwordItem(ModToolMaterials.IRON_SWORD_LV9,
+            new Item.Settings().fireproof().attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.IRON_SWORD_LV9, 137, -0.6F))));
+    public static final Item TENFOLD_IRON_SWORD = ItemRegister("tenfold_iron_sword", new SwordItem(ModToolMaterials.IRON_SWORD_LVX,
+            new Item.Settings().fireproof().attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.IRON_SWORD_LVX, 207, -0.4F))));
+    //IRON_AXE
+    public static final Item COMPRESSED_IRON_AXE = ItemRegister("compressed_iron_axe", new AxeItem(ModToolMaterials.IRON_AXE_LV1,
+            new Item.Settings().fireproof().attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.IRON_AXE_LV1, 6, -2.9F))));
+    public static final Item DOUBLE_IRON_AXE = ItemRegister("double_iron_axe", new AxeItem(ModToolMaterials.IRON_AXE_LV2,
+            new Item.Settings().fireproof().attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.IRON_AXE_LV2, 11, -2.7F))));
+    public static final Item TRIPLE_IRON_AXE = ItemRegister("triple_iron_axe", new AxeItem(ModToolMaterials.IRON_AXE_LV3,
+            new Item.Settings().fireproof().attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.IRON_AXE_LV3, 18, -2.5F))));
+    public static final Item QUADRUPLE_IRON_AXE = ItemRegister("quadruple_iron_axe", new AxeItem(ModToolMaterials.IRON_AXE_LV4,
+            new Item.Settings().fireproof().attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.IRON_AXE_LV4, 29, -2.3F))));
+    public static final Item QUINTUPLE_IRON_AXE = ItemRegister("quintuple_iron_axe", new AxeItem(ModToolMaterials.IRON_AXE_LV5,
+            new Item.Settings().fireproof().attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.IRON_AXE_LV5, 45, -2.1F))));
+    public static final Item SEXTUPLE_IRON_AXE = ItemRegister("sextuple_iron_axe", new AxeItem(ModToolMaterials.IRON_AXE_LV6,
+            new Item.Settings().fireproof().attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.IRON_AXE_LV6, 69, -1.9F))));
+    public static final Item SEPTUPLE_IRON_AXE = ItemRegister("septuple_iron_axe", new AxeItem(ModToolMaterials.IRON_AXE_LV7,
+            new Item.Settings().fireproof().attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.IRON_AXE_LV7, 105, -1.7F))));
+    public static final Item OCTUPLE_IRON_AXE = ItemRegister("octuple_iron_axe", new AxeItem(ModToolMaterials.IRON_AXE_LV8,
+            new Item.Settings().fireproof().attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.IRON_AXE_LV8, 159, -1.5F))));
+    public static final Item NONUPLE_IRON_AXE = ItemRegister("nonuple_iron_axe", new AxeItem(ModToolMaterials.IRON_AXE_LV9,
+            new Item.Settings().fireproof().attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.IRON_AXE_LV9, 240, -1.3F))));
+    public static final Item TENFOLD_IRON_AXE = ItemRegister("tenfold_iron_axe", new AxeItem(ModToolMaterials.IRON_AXE_LVX,
+            new Item.Settings().fireproof().attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.IRON_AXE_LVX, 362, -1.1F))));
+    //IRON_HOE
+    public static final Item COMPRESSED_IRON_HOE = ItemRegister("compressed_iron_hoe", new HoeItem(ModToolMaterials.IRON_HOE_LV1,
+            new Item.Settings().fireproof().attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.IRON_HOE_LV1, -3, -0.8F))));
+    public static final Item DOUBLE_IRON_HOE = ItemRegister("double_iron_hoe", new HoeItem(ModToolMaterials.IRON_HOE_LV2,
+            new Item.Settings().fireproof().attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.IRON_HOE_LV2, -3, -0.6F))));
+    public static final Item TRIPLE_IRON_HOE = ItemRegister("triple_iron_hoe", new HoeItem(ModToolMaterials.IRON_HOE_LV3,
+            new Item.Settings().fireproof().attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.IRON_HOE_LV3, -3, -0.4F))));
+    public static final Item QUADRUPLE_IRON_HOE = ItemRegister("quadruple_iron_hoe", new HoeItem(ModToolMaterials.IRON_HOE_LV4,
+            new Item.Settings().fireproof().attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.IRON_HOE_LV4, -3, -0.2F))));
+    public static final Item QUINTUPLE_IRON_HOE = ItemRegister("quintuple_iron_hoe", new HoeItem(ModToolMaterials.IRON_HOE_LV5,
+            new Item.Settings().fireproof().attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.IRON_HOE_LV5, -3, 0.0F))));
+    public static final Item SEXTUPLE_IRON_HOE = ItemRegister("sextuple_iron_hoe", new HoeItem(ModToolMaterials.IRON_HOE_LV6,
+            new Item.Settings().fireproof().attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.IRON_HOE_LV6, -3, 0.2F))));
+    public static final Item SEPTUPLE_IRON_HOE = ItemRegister("septuple_iron_hoe", new HoeItem(ModToolMaterials.IRON_HOE_LV7,
+            new Item.Settings().fireproof().attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.IRON_HOE_LV7, -3, 0.4F))));
+    public static final Item OCTUPLE_IRON_HOE = ItemRegister("octuple_iron_hoe", new HoeItem(ModToolMaterials.IRON_HOE_LV8,
+            new Item.Settings().fireproof().attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.IRON_HOE_LV8, -3, 0.6F))));
+    public static final Item NONUPLE_IRON_HOE = ItemRegister("nonuple_iron_hoe", new HoeItem(ModToolMaterials.IRON_HOE_LV9,
+            new Item.Settings().fireproof().attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.IRON_HOE_LV9, -3, 0.8F))));
+    public static final Item TENFOLD_IRON_HOE = ItemRegister("tenfold_iron_hoe", new HoeItem(ModToolMaterials.IRON_HOE_LVX,
+            new Item.Settings().fireproof().attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.IRON_HOE_LVX, -3, 1.0F))));
+    //IRON_PICKAXE
+    public static final Item COMPRESSED_IRON_PICKAXE = ItemRegister("compressed_iron_pickaxe", new PickaxeItem(ModToolMaterials.IRON_PICKAXE_LV1,
+            new Item.Settings().fireproof().attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.IRON_PICKAXE_LV1, -1, -2.6F))));
+    public static final Item DOUBLE_IRON_PICKAXE = ItemRegister("double_iron_pickaxe", new PickaxeItem(ModToolMaterials.IRON_PICKAXE_LV2,
+            new Item.Settings().fireproof().attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.IRON_PICKAXE_LV2, 0, -2.4F))));
+    public static final Item TRIPLE_IRON_PICKAXE = ItemRegister("triple_iron_pickaxe", new PickaxeItem(ModToolMaterials.IRON_PICKAXE_LV3,
+            new Item.Settings().fireproof().attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.IRON_PICKAXE_LV3, 2, -2.2F))));
+    public static final Item QUADRUPLE_IRON_PICKAXE = ItemRegister("quadruple_iron_pickaxe", new PickaxeItem(ModToolMaterials.IRON_PICKAXE_LV4,
+            new Item.Settings().fireproof().attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.IRON_PICKAXE_LV4, 5, -2.0F))));
+    public static final Item QUINTUPLE_IRON_PICKAXE = ItemRegister("quintuple_iron_pickaxe", new PickaxeItem(ModToolMaterials.IRON_PICKAXE_LV5,
+            new Item.Settings().fireproof().attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.IRON_PICKAXE_LV5, 9, -1.8F))));
+    public static final Item SEXTUPLE_IRON_PICKAXE = ItemRegister("sextuple_iron_pickaxe", new PickaxeItem(ModToolMaterials.IRON_PICKAXE_LV6,
+            new Item.Settings().fireproof().attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.IRON_PICKAXE_LV6, 15, -1.6F))));
+    public static final Item SEPTUPLE_IRON_PICKAXE = ItemRegister("septuple_iron_pickaxe", new PickaxeItem(ModToolMaterials.IRON_PICKAXE_LV7,
+            new Item.Settings().fireproof().attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.IRON_PICKAXE_LV7, 24, -1.4F))));
+    public static final Item OCTUPLE_IRON_PICKAXE = ItemRegister("octuple_iron_pickaxe", new PickaxeItem(ModToolMaterials.IRON_PICKAXE_LV8,
+            new Item.Settings().fireproof().attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.IRON_PICKAXE_LV8, 38, -1.2F))));
+    public static final Item NONUPLE_IRON_PICKAXE = ItemRegister("nonuple_iron_pickaxe", new PickaxeItem(ModToolMaterials.IRON_PICKAXE_LV9,
+            new Item.Settings().fireproof().attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.IRON_PICKAXE_LV9, 59, -1.0F))));
+    public static final Item TENFOLD_IRON_PICKAXE = ItemRegister("tenfold_iron_pickaxe", new PickaxeItem(ModToolMaterials.IRON_PICKAXE_LVX,
+            new Item.Settings().fireproof().attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.IRON_PICKAXE_LVX, 90, -0.8F))));
+    //IRON_SHOVEL
+    public static final Item COMPRESSED_IRON_SHOVEL = ItemRegister("compressed_iron_shovel", new ShovelItem(ModToolMaterials.IRON_SHOVEL_LV1,
+            new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.IRON_SHOVEL_LV1, 0, -2.8F))));
+    public static final Item DOUBLE_IRON_SHOVEL = ItemRegister("double_iron_shovel", new ShovelItem(ModToolMaterials.IRON_SHOVEL_LV2,
+            new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.IRON_SHOVEL_LV2, 2, -2.6F))));
+    public static final Item TRIPLE_IRON_SHOVEL = ItemRegister("triple_iron_shovel", new ShovelItem(ModToolMaterials.IRON_SHOVEL_LV3,
+            new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.IRON_SHOVEL_LV3, 5, -2.4F))));
+    public static final Item QUADRUPLE_IRON_SHOVEL = ItemRegister("quadruple_iron_shovel", new ShovelItem(ModToolMaterials.IRON_SHOVEL_LV4,
+            new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.IRON_SHOVEL_LV4, 9, -2.2F))));
+    public static final Item QUINTUPLE_IRON_SHOVEL = ItemRegister("quintuple_iron_shovel", new ShovelItem(ModToolMaterials.IRON_SHOVEL_LV5,
+            new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.IRON_SHOVEL_LV5, 15, -2.0F))));
+    public static final Item SEXTUPLE_IRON_SHOVEL = ItemRegister("sextuple_iron_shovel", new ShovelItem(ModToolMaterials.IRON_SHOVEL_LV6,
+            new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.IRON_SHOVEL_LV6, 24, -1.8F))));
+    public static final Item SEPTUPLE_IRON_SHOVEL = ItemRegister("septuple_iron_shovel", new ShovelItem(ModToolMaterials.IRON_SHOVEL_LV7,
+            new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.IRON_SHOVEL_LV7, 38, -1.6F))));
+    public static final Item OCTUPLE_IRON_SHOVEL = ItemRegister("octuple_iron_shovel", new ShovelItem(ModToolMaterials.IRON_SHOVEL_LV8,
+            new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.IRON_SHOVEL_LV8, 59, -1.4F))));
+    public static final Item NONUPLE_IRON_SHOVEL = ItemRegister("nonuple_iron_shovel", new ShovelItem(ModToolMaterials.IRON_SHOVEL_LV9,
+            new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.IRON_SHOVEL_LV9, 90, -1.2F))));
+    public static final Item TENFOLD_IRON_SHOVEL = ItemRegister("tenfold_iron_shovel", new ShovelItem(ModToolMaterials.IRON_SHOVEL_LVX,
+            new Item.Settings().fireproof().attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.IRON_SHOVEL_LVX, 137, -1.0F))));
+
     //物品注册系统
     public static Item ItemRegister(String id, Item item){
         return Registry.register(Registries.ITEM, Identifier.of(XMIB.MOD_ID, id) ,item);
